@@ -1,0 +1,14 @@
+Amazon
+Apple
+Facebook
+Google
+IBM
+Intel
+Microsoft
+NVidia
+MySQL
+SAP
+Twitter
+Yahoo
+Zend
+iRobot
